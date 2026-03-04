@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ziad Nasef, Ph.D."
 title_separator          : "-"
-name                     : &name "Ziad Nasef"
+name                     : &name "Ziad Nasef, Ph.D."
 description              : &description "Academic portfolio: biomass thermochemical conversion, reactor-scale modeling, and machine learning."
 url                      : "https://ziad61nasef.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,14 +25,14 @@ author:
   avatar           : "/images/Ziad_Nasef.jpeg"   # upload your photo as images/ziad.jpg
   name             : "Ziad Nasef"
   pronouns         :
-  bio              : "
-    Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, machine learning, and digital twin for energy systems.
+  bio: |
+  Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, machine learning, and digital twin for energy systems.
 
-    PhD in Mechanical Engineering, University of California, Merced.
+  PhD in Mechanical Engineering, University of California, Merced.
 
-    Research areas include biomass pyrolysis, smoldering combustion modeling, biochar systems, and data-driven reactor modeling.
+  Research areas include biomass pyrolysis, smoldering combustion modeling, biochar systems, and data-driven reactor modeling.
 
-    Personal email: ziad61nasef@gmail.com"
+  Personal email: ziad61nasef@gmail.com
   location         : "California, USA"
   employer         : "University of California, Merced"
   uri              :
