@@ -22,7 +22,7 @@ repository               : "ziad61nasef/ziad61nasef.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Ziad_Nasef.jpeg"   # upload your photo as images/ziad.jpg
+  avatar           : "/images/Ziad_Nasef.jpeg"   # upload your photo as images/ziad.jpg
   name             : "Ziad Nasef"
   pronouns         :
   bio: |
