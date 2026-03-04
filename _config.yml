@@ -25,19 +25,26 @@ author:
   avatar           : "/images/ziad.jpg"     # upload your photo as images/ziad.jpg
   name             : "Ziad Nasef"
   pronouns         :
-  bio              : "Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, and machine learning for energy systems."
+  bio              : "|
+    Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, and machine learning for energy systems.
+
+    PhD in Mechanical Engineering, University of California, Merced.
+
+    Research areas include biomass pyrolysis, smoldering combustion modeling, biochar systems, and data-driven reactor modeling.
+
+    Personal email: ziad61nasef@gmail.com"
   location         : "California, USA"
   employer         : "University of California, Merced"
   uri              :
-  email            : ""                    # add your email if you want it shown
+  email            : "znasef@ucmerced.edu"                    # add your email if you want it shown
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"   # replace if needed
+  googlescholar    : "https://scholar.google.com/citations?user=_apWtCIAAAAJ&hl=en"   # replace if needed
   inspire-hep      :
   impactstory      :
-  orcid            : ""                    # paste your ORCID link if you have one
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-5477-7391"                    # paste your ORCID link if you have one
   semantic         :
   ssrn             :
   pubmed           :
