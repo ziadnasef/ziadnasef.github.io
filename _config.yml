@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ziad Nasef"
+title                    : "Ziad Nasef, Ph.D."
 title_separator          : "-"
 name                     : &name "Ziad Nasef"
 description              : &description "Academic portfolio: biomass thermochemical conversion, reactor-scale modeling, and machine learning."
@@ -25,8 +25,8 @@ author:
   avatar           : "/images/ziad.jpg"     # upload your photo as images/ziad.jpg
   name             : "Ziad Nasef"
   pronouns         :
-  bio              : "|
-    Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, and machine learning for energy systems.
+  bio              : "
+    Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, machine learning, and digital twin for energy systems.
 
     PhD in Mechanical Engineering, University of California, Merced.
 
@@ -71,7 +71,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : ""                    # put only your LinkedIn username (not full URL), e.g. "ziad-nasef"
+  linkedin         : "https://www.linkedin.com/in/ziadnasef/"                    # put only your LinkedIn username (not full URL), e.g. "ziad-nasef"
   mastodon         :
   medium           :
   pinterest        :
